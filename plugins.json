@@ -22,6 +22,7 @@
   "inventorySimple": "@reactioncommerce/api-plugin-inventory-simple",
   "carts": "@reactioncommerce/api-plugin-carts",
   "orders": "@reactioncommerce/api-plugin-orders",
+  "paymentsCOD": "@dileepa/api-plugin-payments-cod",
   "payments": "@reactioncommerce/api-plugin-payments",
   "paymentsStripe": "@reactioncommerce/api-plugin-payments-stripe",
   "paymentsExample": "@reactioncommerce/api-plugin-payments-example",
